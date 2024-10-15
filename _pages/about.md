@@ -1,3 +1,11 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 Overview
 ======
 My goal is to be a quality candidate and serve as a 
