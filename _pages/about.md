@@ -150,3 +150,6 @@ phone number
   
 
 Email 
+
+# Projects
+https://github.com/LucasFongemie/PredictingHousePrices
