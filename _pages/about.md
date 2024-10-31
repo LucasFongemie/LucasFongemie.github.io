@@ -9,17 +9,7 @@ redirect_from:
 
 # Overview 
 
-My goal is to be a quality candidate and serve as a  
-
-great contribution to your company. I will work my  
-
-hardest and I am determined to do my best in this role  
-
-to help however I can. This role would give me the  
-
-opportunity to grow and learn, gaining experience to  
-
-become better prepared for my future career.  
+My goal is to be a quality candidate and serve as a great contribution to your company. I will work my hardest and I am determined to do my best in this role to help however I can. This role would give me the opportunity to grow and learn, gaining experience to become better prepared for my future career.  
 
   
 
