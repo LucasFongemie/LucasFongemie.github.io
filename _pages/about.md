@@ -148,6 +148,6 @@ phone number
 Email 
 
 # Projects
-[https://github.com/LucasFongemie/PredictingHousePrices]
+[Predicting House Prices](https://github.com/LucasFongemie/PredictingHousePrices)
 
 This project is a machine learning prediction using leaner regression, in a python notebook on Visual Studio Code. The code uses Scikit-learn to learn from the data and find how different attributes affect the price of a house. The data is imported from a USA housing prices dataset and then runs through linear regression to predict prices based on the given attributes.
