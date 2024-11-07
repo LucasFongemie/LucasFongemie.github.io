@@ -101,51 +101,26 @@ First Honors
 
 Robert Scott 
 
-  
-
 - ITOA coordinator 
 
 - Teacher at Havre de Grace High School 
 
-  
-
 Robert.Scott@hcps.org 
-
-  
 
 Eliza Wagoner 
 
-  
-
 - Honors English teacher at Havre de Grace High School 
 
-  
-
-Eliza.Wagoner@hcps.orgDavid 
-
-  
+Eliza.Wagoner@hcps.org
 
 David Rathfon 
 
-  
-
 - Geography teacher at Havre de Grace Middle School 
 
-- Havre de Grace High School Wrestling Coach 
-
-  
+- Havre de Grace High School Wrestling Coach
 
 David.Rathfon@hcps.org 
 
-  
-
-# Contact 
-
-address
-
-phone number 
-
-Email 
 
 # Projects
 [Predicting House Prices](https://github.com/LucasFongemie/PredictingHousePrices)
