@@ -126,3 +126,7 @@ David.Rathfon@hcps.org
 [Predicting House Prices](https://github.com/LucasFongemie/PredictingHousePrices)
 
 This project is a machine learning prediction using leaner regression, in a python notebook on Visual Studio Code. The code uses Scikit-learn to learn from the data and find how different attributes affect the price of a house. The data is imported from a USA housing prices dataset and then runs through linear regression to predict prices based on the given attributes.
+
+[Right Triangle Calculator](https://github.com/LucasFongemie/Calculator.git)
+
+This project is a right triangle calculator that uses a scanner to take user inputs and uses methods to solve any remaining sides or angles using geometric functions. 
