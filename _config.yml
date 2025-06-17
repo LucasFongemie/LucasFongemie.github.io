@@ -21,7 +21,7 @@ repository               : "LucasFongemie/LucasFongemie.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "fongemie.jpg"
   name             : "Lucas Fongemie"
   pronouns         : # example: "she/her"  
   bio              : "A student in the ITOA program at Havre de Grace High School."
