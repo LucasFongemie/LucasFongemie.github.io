@@ -133,8 +133,8 @@ This project is a right triangle calculator that uses a scanner to take user inp
 
 [War Card Game](https://github.com/LucasFongemie/WarGame)
 
-This project is a coded version of the card game war, it is written in Java in an Eclipse workspace. The code uses 4 different classes that create a deck of cards suffle them out and compaire them to one enouther until there is a winner, it plays a game between a player and a computer where you hit enter after each round to play the next.
+This project is a coded version of the card game war; it is written in Java in an Eclipse workspace. The code uses 4 different classes that create a deck of cards, shuffle them out, and compare them to one another until there is a winner. It plays a game between a player and a computer where you hit enter after each round to play the next.
 
 [Welcome To](https://github.com/LucasFongemie/WelcomeTo)
 
-This project is the coded front end of the board game Welcome To, it is written in Java on a package in Visual Studio Code. The code uses front end development ablilities to add and display certain images and text. The project opens a window and displayes the cards and board for the game allowing you to click trough the cards and add marks for your board.
+This project is the coded front end of the board game Welcome To. It is written in Java on a package in Visual Studio Code. The code uses front end development abilities to add and display certain images and text. The project opens a window and displays the cards and board for the game, allowing you to click through the cards and add marks for your board. 
